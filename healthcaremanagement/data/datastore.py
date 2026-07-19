@@ -1,5 +1,0 @@
-datastore = {
-    "patients":{},
-    "doctors":{},
-    "appointments":{}
-}
